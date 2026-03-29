@@ -1,10 +1,12 @@
 # Retro Rec
 
-I wanted a device like this each time I messed up a loop recording.
+I wanted this device each time I messed up a loop recording.
 
-When you mess up, you have to finish the record, delete the clip and start recording a new one, hoping you get it right this time. Annoying when your do it live. 
+When that happens, you have to finish the record, delete the clip and start again, hoping you get it right this time. Annoying when your do it live.
 
-With this device you just play and hit save button only once, when you know it sounds right. It saves the number of played bars you set. 
+With this device you just play and only hit save button once, when you know it sounds right. It saves the number of played bars you've set.
+
+Works for MIDI and audio.
 
 ![](https://github.com/Maboroshy/Max-for-Live-Devices/blob/main/Retro%20Rec/Retro%20Rec.gif?raw=true)
 
