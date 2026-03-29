@@ -5,3 +5,8 @@
 - Pitch mode to quantize only the notes with selected pitches
 - Quantize mode selection can be mapped to a knob or buttons
 - "Now" button to manually quantize track's last fired clip
+
+## Changelog
+### v1.1 - 29.03.2026
+- Improved stability
+- Ensured Retro Rec compatibility
