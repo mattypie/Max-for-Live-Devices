@@ -4,6 +4,8 @@ I like having 8-16 mappable buttons to select chains, variations, etc. on device
 
 So I made a device with a lot of buttons to set the value of any mappable parameter. 
 
+![](https://github.com/Maboroshy/Max-for-Live-Devices/blob/main/Parameter%20Value%20Buttons/Parameter%20Value%20Buttons.gif?raw=true)
+
 It includes:
 - 16, 32, 64 or 128 value buttons
 - Percentage buttons with an adjustable value range
