@@ -20,6 +20,7 @@ Random and cycle modes' buttons can be auto-triggered for constant movement with
 
 Mind that with quantization enabled the buttons won't do anything until transport is running. 
 
+# Changelog
 ### v1.1 - 21.04.2026
 - Fixed MIDI messages passthrough for MIDI version
 - Removed redundant .00 in LED screen values 
